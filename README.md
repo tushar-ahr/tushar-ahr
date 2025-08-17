@@ -1,69 +1,65 @@
-<!-- ===== Hero / Header ===== -->
-<p align="center">
- 
-</p>
-
-<p align="center">
-  <strong>🚀 A passionate backend developer from India — building useful, beautiful things.</strong>
-</p>
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hey, I'm Tushar</h1>
+<h3 align="center">Backend Developer | Full Stack Learner | Cybersecurity Enthusiast</h3>
 
 ---
 
-<!-- ===== Contact & Socials ===== -->
-<p align="center">
-  <a href="mailto:tusharahirwar740@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
-  <a href="https://github.com/tushar-ahr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
+<!-- ===== ABOUT ===== -->
+### 👨‍💻 About Me
+- 🚀 Currently learning **Full Stack Development & Frameworks**  
+- 🔒 Exploring **Cybersecurity & Backend**  
+- 📬 Contact: **tusharahirwar740@gmail.com**  
+- ⚡ Fun fact: I love building projects that solve real problems  
 
 ---
 
-### 👨‍💻 About
-- 🌱 Currently learning **Full-stack frameworks & advanced backend**  
-- 📫 Reach me: `tusharahirwar740@gmail.com`  
-- 🎸 Hobbies: guitar, sketching, coding
-
----
-
-### 🛠️ Skills
+<!-- ===== SOCIALS ===== -->
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,bootstrap,git,github" alt="skills" />
+  <a href="mailto:tusharahirwar740@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tushar-ahr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📊 GitHub stats
+<!-- ===== SKILLS ===== -->
+### 🛠 Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-ahr&show_icons=true&theme=tokyonight" alt="github stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-ahr&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Streak & Contributions
-<!-- Use a reliable streak endpoint (Vercel demo of the original streak-stats) -->
+<!-- ===== GITHUB STATS ===== -->
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=tushar-ahr&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-ahr&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-ahr&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake (animated SVG)
-<!-- Use raw URL or blob with ?raw=true so GitHub serves the SVG image itself (not the HTML page) -->
+<!-- ===== STREAK ===== -->
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tushar-ahr&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
+<!-- ===== SNAKE ===== -->
+### 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <!-- dark-mode image -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/main/output/github-contribution-grid-snake-dark.svg?raw=true" />
-    <!-- light-mode / fallback image -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/main/output/github-contribution-grid-snake.svg?raw=true" style="max-width:100%;"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-
-
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-ahr&label=Profile+views&color=FF6EC7&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tushar-ahr&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
