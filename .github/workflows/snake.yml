@@ -1,0 +1,37 @@
+name: Generate contribution snake
+
+# run daily (UTC). Also run on push to main so you can test immediately
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every day at 00:00 UTC
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  # required so the action can commit the generated files
+
+jobs:
+  build-and-commit-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVGs (Platane/snk)
+        uses: Platane/snk@v3
+        with:
+          # generate files under output/
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated images
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'output/*'
+          message: 'chore: update contribution snake'
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
