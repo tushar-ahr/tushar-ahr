@@ -1,37 +1,69 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A passionate backend dev from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-ahr&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-ahr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full stack dev & framework etc**
-
-- 📫 How to reach me **tusharahirwar740@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ===== Hero / Header ===== -->
+<p align="center">
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>🚀 A passionate backend developer from India — building useful, beautiful things.</strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-ahr&show_icons=true&locale=en" alt="tushar-ahr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-ahr&" alt="tushar-ahr" /></p>
+<!-- ===== Contact & Socials ===== -->
+<p align="center">
+  <a href="mailto:tusharahirwar740@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
+  <a href="https://github.com/tushar-ahr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
+
+---
+
+### 👨‍💻 About
+- 🌱 Currently learning **Full-stack frameworks & advanced backend**  
+- 📫 Reach me: `tusharahirwar740@gmail.com`  
+- 🎸 Hobbies: guitar, sketching, coding
+
+---
+
+### 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,bootstrap,git,github" alt="skills" />
+</p>
+
+---
+
+### 📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-ahr&show_icons=true&theme=tokyonight" alt="github stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-ahr&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+### 🔥 Streak & Contributions
+<!-- Use a reliable streak endpoint (Vercel demo of the original streak-stats) -->
+<p align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=tushar-ahr&theme=radical&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (animated SVG)
+<!-- Use raw URL or blob with ?raw=true so GitHub serves the SVG image itself (not the HTML page) -->
+<p align="center">
+  <picture>
+    <!-- dark-mode image -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/main/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <!-- light-mode / fallback image -->
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tushar-ahr/tushar-ahr/main/output/github-contribution-grid-snake.svg?raw=true" style="max-width:100%;"/>
+  </picture>
+</p>
 
 
-<!--
-**tushar-ahr/tushar-ahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar-ahr&label=Profile+views&color=FF6EC7&style=flat-square" alt="profile views"/>
+</p>
