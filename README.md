@@ -5,7 +5,7 @@
 
 ## ⚡ About Me
 - 🎓 B.Tech IT student @ JEC Jabalpur  
-- 💻 Exploring **Cybersecurity** & **Full-Stack Development**  
+- 💻 Exploring **Cybersecurity**
 - 🎸 Guitar & Sketching in free time  
 - 🎯 Goal: Become a skilled engineer & security professional  
 
